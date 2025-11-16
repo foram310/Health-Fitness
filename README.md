@@ -12,9 +12,3 @@ Easy-to-use graphical interface
 
 Clean and lightweight project
 
-📂 Project Files
-BMI.py          # Tkinter BMI calculator
-diet_plan.py    # Tkinter diet suggestion app
-0.py           
-1.py           
-images/        
