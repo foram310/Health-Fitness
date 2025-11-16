@@ -1,0 +1,10 @@
+# Ignore image folder
+images/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env (if any)
+env/
+venv/
